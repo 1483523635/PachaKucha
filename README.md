@@ -1,4 +1,4 @@
-# PachaKucha Ideas
+# Pacha Kucha Ideas
 * 自我介绍
 * 以堵车为开头，引出接下来要讲的话题
 * 介绍囚徒困境背景故事模型
